@@ -1,7 +1,7 @@
 [
   {
     "title": "Testnet",
-    "url": "https://explorer-test2.arthera.net/",
+    "url": "https://explorer-test.arthera.net/",
     "group": "Testnets",
     "icon": "https://uploads-ssl.webflow.com/650c94b9ebb12aeb6b6cebbe/65c870157df8e86efaf61f2a_gradient_icon-bcbb20f28821f2543bb285c9f3bd0fa7.svg",
     "invertIconInDarkMode": false
